@@ -1,4 +1,4 @@
-# C++ Project-
+# C++ Project #1
 # Random Event Generator 🎁
 
 This is a basic C++ console application that randomly generates a prize each time it's run. It uses the current system time to seed the random number generator, and assigns a reward based on a random number between 1 and 5.
